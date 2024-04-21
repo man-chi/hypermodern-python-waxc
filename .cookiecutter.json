@@ -1,0 +1,16 @@
+{
+  "_checkout": "2022.6.3",
+  "_output_dir": "/Users/mac/Repo",
+  "_repo_dir": "/Users/mac/.cookiecutters/cookiecutter-hypermodern-python",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Manchi L.",
+  "copyright_year": "2024",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "manchi@waxc.tech",
+  "friendly_name": "Hypermodern Python Waxc",
+  "github_user": "man-chi",
+  "license": "MIT",
+  "package_name": "hypermodern_python_waxc",
+  "project_name": "hypermodern-python-waxc",
+  "version": "0.0.0"
+}
